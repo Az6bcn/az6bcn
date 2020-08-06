@@ -25,3 +25,6 @@ I work with **Angular**, **TypeScript**, **.Net Core**, **C#** and **Azure**.
 
 - Twitter: [twitter.com/hasexzo][3]
 - LinkedIn: [linkedin.com/in/azeezodumosu][2]
+
+[2]: https://www.linkedin.com/in/azeezodumosu
+[3]: https://www.twitter.com/hasexzo
