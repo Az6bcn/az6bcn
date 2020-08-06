@@ -1,15 +1,24 @@
 ### Hi there 👋
 
-I am a Software Engineer from the UK.
+I am a Software Engineer from the UK.I love the combination of both the creative and logical problem solving part in software development. 
 I work with **Angular**, **TypeScript**, **.Net Core**, **C#** and **Azure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning:  **React** and **Docker**
-- 👯 I’m looking to collaborate on: .Net Projects
-- 💬 Ask me about: .Net
-- 📫 How to reach me: Twitter: [twitter.com/hasexzo][3] LinkedIn: [linkedin.com/in/azeezodumosu][2]
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Man Utd is the best.
+- 🔭 I’m currently working to be a better Engineer day after day using C#, Javascript and Azure.
+- 🌱 I’m currently learning:  **React**, **Docker** and **everything I can find.** 
+- 👯 I’m looking to collaborate on: **.Net Projects**
+- 💬 Ask me about: **.Net**, **C#**
+- 📫 How to reach me: [twitter.com/hasexzo][3], [linkedin.com/in/azeezodumosu][2]
+- 😄 Pronouns: **he/him/his**
+- ⚡ Fun fact: **Man Utd is the best.**
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Tools I like to Use
+.Net Core| JS | Angular | HTML | CSS | C#| SQL Server | Azure | Azure Storage | Azure Function | Visual Studio|
+-------- | -- | ------- | ---- | --- | - | ---------- | ----- | ------------- | -------------- | ------------ |
+<img src="https://msdnshared.blob.core.windows.net/media/2018/03/ASPNETCoreLogo-300x267.png" width ="48px" height = 48px/> | <img src="https://img.icons8.com/color/48/000000/javascript.png"/> | <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/sql-database-administrators-group.png"/> | <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> | <img src="https://img.icons8.com/color/48/000000/azure-storage--v1.png"/> | <img src="https://docs.microsoft.com/en-us/azure/architecture/_images/icons/functions.svg" width ="48px" height = 48px/> | <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>
 
 ## &#x1f4c8; My GitHub Stats
 
