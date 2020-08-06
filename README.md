@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Az6bcn/az6bcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Software Engineer from the UK.
+I work with **Angular**, **TypeScript**, **.Net Core**, **C#** and **Azure**.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:  **React** and **Docker**
+- 👯 I’m looking to collaborate on: .Net Projects
+- 💬 Ask me about: .Net
+- 📫 How to reach me: Twitter: [twitter.com/hasexzo][3] LinkedIn: [linkedin.com/in/azeezodumosu][2]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Man Utd is the best.
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+## 📬 Get in touch
+
+- Twitter: [twitter.com/hasexzo][3]
+- LinkedIn: [linkedin.com/in/azeezodumosu][2]
