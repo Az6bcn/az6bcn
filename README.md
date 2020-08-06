@@ -2,13 +2,9 @@
 
 I am a Software Engineer from the UK. I love the combination of both the creative and logical problem solving part in software development.
 
-- 🔭 I’m currently working to be a better Engineer day after day using C#, Javascript and Azure.
 - 🌱 I’m currently learning:  **React**, **Docker**, **k8s** and **everything I can find.** 
 - 👯 I’m looking to collaborate on: **.Net Projects**
 - 💬 Ask me about: **.Net**, **C#** and **Angular**
-- 📫 How to reach me: [twitter.com/hasexzo][3], [linkedin.com/in/azeezodumosu][2]
-- 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: **Man Utd is the best.**
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
