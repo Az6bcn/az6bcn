@@ -10,10 +10,10 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 ```text
 TypeScript   3 hrs 24 mins   █████████████████████░░░░   83.91 % 
-HTML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+HTML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
 
