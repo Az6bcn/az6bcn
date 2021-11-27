@@ -9,7 +9,9 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 November, 2021 - 26 November, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
