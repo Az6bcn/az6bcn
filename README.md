@@ -9,10 +9,10 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2021 - 01 December, 2021
+Week: 26 November, 2021 - 02 December, 2021
 
-TypeScript   9 mins          ███████████████▒░░░░░░░░░   60.79 % 
-C#           5 mins          ████████▓░░░░░░░░░░░░░░░░   34.91 % 
+C#           13 mins         █████████████░░░░░░░░░░░░   52.39 % 
+TypeScript   11 mins         ███████████░░░░░░░░░░░░░░   44.25 % 
 ```
 <!--END_SECTION:waka-->
 
