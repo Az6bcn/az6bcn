@@ -9,7 +9,7 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
+Week: 14 December, 2021 - 20 December, 2021
 
 C#           5 hrs 53 mins   ██████████████████████░░░   88.05 % 
 SQL          31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
