@@ -9,7 +9,7 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
 TypeScript   2 hrs 3 mins    ████████████░░░░░░░░░░░░░   48.54 % 
 HTML         56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 % 
