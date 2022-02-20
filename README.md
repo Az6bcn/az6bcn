@@ -9,13 +9,9 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 2 hrs 47 mins
-
-C#     2 hrs 44 mins   ████████████████████████▓   98.00 % 
-JSON   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-SQL    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+C#   28 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
