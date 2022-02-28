@@ -8,11 +8,13 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
+
 ```text
-From: 18 February, 2022 - To: 24 February, 2022
+From: 21 February 2022 - To: 27 February 2022
 
-
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Tools I like to Use
