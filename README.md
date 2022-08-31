@@ -10,7 +10,10 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 August 2022 - To: 29 August 2022
+
+HTML    10 mins         ████████████████████████▒   97.80 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
