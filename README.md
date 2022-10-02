@@ -10,14 +10,14 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 29 September 2022
+From: 23 September 2022 - To: 30 September 2022
 
-C#               1 hr 41 mins    █████████████░░░░░░░░░░░░   52.55 %
-Solution File    25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Docker           23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-GitIgnore file   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-XML              15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Csproj           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+C#               4 hrs 24 mins   ██████████████████░░░░░░░   72.61 %
+Solution File    25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Docker           23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+GitIgnore file   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+XML              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Other            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
