@@ -10,11 +10,11 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 October 2022 - To: 02 November 2022
+From: 27 October 2022 - To: 03 November 2022
 
-C#     6 hrs 45 mins   ██████████████████████▓░░   91.26 %
-JSON   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C#     7 hrs 55 mins   ███████████████████████░░   92.46 %
+JSON   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
