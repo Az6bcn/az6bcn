@@ -10,11 +10,12 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 15 November 2022
+From: 10 November 2022 - To: 16 November 2022
 
-C#                     3 hrs 45 mins   ███████████████████████░░   91.40 %
-Docker                 15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Other                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+C#                     3 hrs 57 mins   ██████████████████████░░░   87.93 %
+Docker                 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+XML                    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Other                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
