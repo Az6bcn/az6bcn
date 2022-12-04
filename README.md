@@ -10,10 +10,10 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 01 December 2022
+From: 26 November 2022 - To: 02 December 2022
 
-XAML   33 mins         ██████████████████▓░░░░░░   74.62 %
-C#     11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+XAML   27 mins         ██████████████████▓░░░░░░   75.07 %
+C#     9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
 ```
 
 <!--END_SECTION:waka-->
