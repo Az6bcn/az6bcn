@@ -10,10 +10,10 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 03 February 2023
+From: 29 January 2023 - To: 04 February 2023
 
-C#     19 hrs 38 mins  ████████████████████████░   95.92 %
-JSON   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+C#     21 hrs 28 mins  ████████████████████████░   96.25 %
+JSON   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
