@@ -10,7 +10,7 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 Other   10 hrs 49 mins  █████████████████▒░░░░░░░   69.24 %
 SQL     3 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
