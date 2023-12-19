@@ -10,7 +10,7 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 16 December 2023
+From: 11 December 2023 - To: 17 December 2023
 
 C#      1 hr 14 mins    ████████████████████▓░░░░   82.31 %
 Other   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
