@@ -10,7 +10,7 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 30 December 2023
+From: 25 December 2023 - To: 31 December 2023
 
 No activity tracked
 ```
