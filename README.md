@@ -10,10 +10,10 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2024 - To: 10 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
-Other   5 hrs 1 min     ██████████████████████▓░░   90.66 %
-SQL     31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+Other   5 hrs 23 mins   █████████████████████▒░░░   85.11 %
+SQL     56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
 ```
 
 <!--END_SECTION:waka-->
