@@ -10,13 +10,13 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2025 - To: 14 May 2025
+From: 08 May 2025 - To: 15 May 2025
 
-C#      4 hrs 23 mins   ████████████▒░░░░░░░░░░░░   48.86 %
-Other   3 hrs 59 mins   ███████████░░░░░░░░░░░░░░   44.52 %
-SQL     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-JSON    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-CSV     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+C#      4 hrs 23 mins   ██████████████▒░░░░░░░░░░   57.30 %
+Other   2 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 %
+SQL     31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JSON    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+CSV     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
