@@ -10,12 +10,12 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Other      10 hrs 20 mins  ██████████████████▓░░░░░░   74.34 %
-C#         2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-SQL        53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other      8 hrs 15 mins   ██████████████████▒░░░░░░   73.46 %
+C#         2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+SQL        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
