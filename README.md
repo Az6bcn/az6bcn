@@ -10,13 +10,13 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2026 - To: 01 March 2026
+From: 24 February 2026 - To: 02 March 2026
 
-Other    1 hr 35 mins          ███████████████████▒░░░░░   77.77 %
-YAML     16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-JSON     5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-C#       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Docker   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other    1 hr 21 mins          ██████████████████▓░░░░░░   74.89 %
+YAML     16 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+JSON     5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+C#       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Docker   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
