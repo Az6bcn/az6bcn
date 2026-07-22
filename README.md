@@ -10,12 +10,9 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2026 - To: 19 July 2026
+From: 13 July 2026 - To: 20 July 2026
 
-C#           40 mins               ██████████████████▒░░░░░░   73.85 %
-PowerShell   7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Markdown     5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Inno Setup   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+C#   40 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
