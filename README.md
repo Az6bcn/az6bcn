@@ -10,13 +10,13 @@ I am a Software Engineer from the UK. I love the combination of both the creativ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Other   51 mins               ███████████░░░░░░░░░░░░░░   44.29 %
-XML     30 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-C#      15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Shell   12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-XAML    6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Other   1 hr 4 mins           ████████████░░░░░░░░░░░░░   47.85 %
+XML     30 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+C#      15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Shell   12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+XAML    6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
